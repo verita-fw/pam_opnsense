@@ -1,0 +1,14 @@
+*.a
+*.debug
+*.depend
+*.full
+*.gz
+*.in
+*.lo
+*.o
+*.pico
+*.po
+*.so
+*~
+bin/opnsense-login
+libexec/opnsense-pam
